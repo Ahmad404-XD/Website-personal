@@ -1,5 +1,39 @@
 {
+
     "rewrites": [
+
         {
+
             "source": "/(.*)",
-            "destination": "/index.html"}]}
+
+            "destination": "/index.html"
+
+        },
+
+        {
+
+            "source": "/tugas/(.*)",
+
+            "destination": "/Tugas/tugas.html"
+
+        },
+
+        {
+
+            "source": "/contact/(.*)",
+
+            "destination": "/contact/index.html"
+
+        },
+
+        {
+
+            "source": "/about me/(.*)",
+
+            "destination": "/about me/aboutme.html"
+
+        }
+
+    ]
+
+}
