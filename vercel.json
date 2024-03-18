@@ -14,7 +14,7 @@
 
             "source": "/tugas/(.*)",
 
-            "destination": "/Tugas/tugas.html"
+            "destination": "/Tugas/index.html"
 
         },
 
@@ -30,7 +30,7 @@
 
             "source": "/about me/(.*)",
 
-            "destination": "/about me/aboutme.html"
+            "destination": "/about me/index.html"
 
         }
 
